@@ -1,0 +1,50 @@
+# Salidas generadas automáticamente
+outputs/reportes/*
+outputs/respaldos/*
+outputs/dashboard/*
+outputs/logs/*
+!outputs/reportes/.gitkeep
+!outputs/respaldos/.gitkeep
+!outputs/dashboard/.gitkeep
+!outputs/logs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales y comprimidos
+*.log
+*.tmp
+*.bak
+*.zip
+*.rar
+*.7z
+
+# Variables sensibles
+.env
+.env.local
+.env.*.local
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3

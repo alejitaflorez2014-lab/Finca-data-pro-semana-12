@@ -1,0 +1,8 @@
+fecha,dia,leche_litros,maiz_kilos,animales_observados,observacion
+2026-05-18,lunes,23.5,38,18,produccion estable
+2026-05-19,martes,no_disponible,41,18,dato de leche mal escrito
+2026-05-20,miercoles,21.8,-5,18,maiz negativo no valido
+fecha_mala,jueves,25.2,43,19,fecha incorrecta
+2026-05-22,viernes,400,45,19,leche exagerada revisar unidad
+2026-05-23,sabado,22.4,39,diecinueve,animales no numerico
+2026-05-24,domingo,19.6,34,18,baja produccion revisar alimentacion

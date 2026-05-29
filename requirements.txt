@@ -1,0 +1,4 @@
+# Este proyecto usa solo librerías estándar de Python.
+# No necesitas instalar paquetes externos para ejecutar la actividad principal.
+# Opcional para pruebas:
+# pytest>=8.0.0
